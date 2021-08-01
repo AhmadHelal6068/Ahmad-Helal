@@ -421,7 +421,7 @@ li{
         grid-template-columns: auto auto;
     }
     .portflio .box .img{
-        height: 250px;
+        height: 300px;
         
     }
 }
@@ -456,10 +456,11 @@ li{
 .portflio .box .text .icon-sh .item a{
     font-size: 18px;
     cursor: pointer;
+    color: #333;
 }
 .portflio .box .text .icon-sh .item a:last-child{
     color: red;
-    font-weight: bold;
+/*     font-weight: bold; */
 }
 .portflio .box .text .icon-sh .icon{
     display: flex;
